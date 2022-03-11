@@ -46,14 +46,4 @@ HTML & Tailwind CSS
             </a>
         </td>
     </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/Virajj28/Stock-React-Router/blob/main/readme/rsi.png">
-                <p align="center">
-                    <img src="readme/rsi.png" alt="criteria-page">
-                    <p align="center">RSI Page</p>
-                </p>
-            </a>
-        </td>
-    </tr>
 </table>
